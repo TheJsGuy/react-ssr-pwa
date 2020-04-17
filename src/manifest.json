@@ -1,0 +1,21 @@
+{
+    "short_name": "PWA",
+    "name": "React SSR PWA Example",
+    "icons": [
+        {
+            "src": "/localcdn.com/images/icon.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/localcdn.com/images/icon@2x.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "https://localhost/ui",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "https://localhost/ui",
+    "theme_color": "#3367D6"
+}
